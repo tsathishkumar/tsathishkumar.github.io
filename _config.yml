@@ -1,1 +1,12 @@
 theme: jekyll-theme-midnight
+
+# Setup
+title:               Sathishkumar Thangavel
+url:                 http://tsathishkumar.github.io
+
+# About/contact
+author:
+  name:              Sathishkumar Thangavel
+  email:             tsatiz@gmail.com
+
+plugins: [github-pages]

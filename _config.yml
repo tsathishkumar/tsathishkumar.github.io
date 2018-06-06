@@ -9,4 +9,5 @@ author:
   name:              Sathishkumar Thangavel
   email:             tsatiz@gmail.com
 
-plugins: [github-pages]
+plugins:  [github-pages]
+timezone: Asia/Kolkata
